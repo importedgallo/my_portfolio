@@ -3,3 +3,7 @@ node_modules
 dist
 dist-ssr
 *.local
+main.js~
+.gitignore~
+..gitignore.un~
+.main.js.un~

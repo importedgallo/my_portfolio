@@ -3,10 +3,10 @@ import * as THREE from 'three';
 import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls';
 
 /* Steps for this project
-  1. 
-  2.
-  3.
-  4.
+  1. initialize camera, scene, and renderer.  
+  2. initalizing the shape of the animation
+  3. initialize pointlight, ambientlight, lighthelper, and orbit controls
+  4. 
 */
 
 // initializing scene, camera, renderer
