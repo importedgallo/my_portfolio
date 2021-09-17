@@ -6,7 +6,7 @@ import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls';
   1. initialize camera, scene, and renderer.  
   2. initalizing the shape of the animation
   3. initialize pointlight, ambientlight, lighthelper, and orbit controls
-  4. 
+  4.
 */
 
 // initializing scene, camera, renderer
@@ -66,7 +66,7 @@ function animate() {
 
   // rotation
   torus.rotation.x += 0.01;
-  torus.rotation.y += 0.005;
+  torus.rotation.y += 0.01;
   torus.rotation.z += 0.01;
   controls.update()
 
