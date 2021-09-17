@@ -6,7 +6,7 @@ import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls';
   1. initialize camera, scene, and renderer.  
   2. initalizing the shape of the animation
   3. initialize pointlight, ambientlight, lighthelper, and orbit controls
-  4.
+  4. create a star function to randomly generate stars across the map
 */
 
 // initializing scene, camera, renderer
